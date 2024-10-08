@@ -2,10 +2,6 @@
   "name": "smartlook-unitypackage",
   "version": "1.2.0",
   "description": "Smartlook Analytics package for Unity, enabling session recordings, event tracking, and funnels in Unity projects.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BoundlessDrop/UnityThirdParty-Smartlook.git?path=Assets/Smartlook/SmartlookAnalytics/Scripts"
-  },
   "keywords": [
     "unity",
     "smartlook",
