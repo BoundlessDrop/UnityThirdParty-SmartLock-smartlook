@@ -1,5 +1,6 @@
 {
-  "name": "smartlook-unitypackage",
+  "name": "com.smartlook.sdk",
+  "displayName": "SmartLook",
   "version": "1.2.0",
   "description": "Smartlook Analytics package for Unity, enabling session recordings, event tracking, and funnels in Unity projects.",
   "keywords": [
